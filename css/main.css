@@ -21,8 +21,13 @@ h1 {
 
 .media {
     padding: 30px;
+    margin: 10px;
 
     
+}
+
+.media-body {
+    margin: 20px;
 }
 
 .nav-link {
@@ -41,4 +46,37 @@ h2 {
     font-family: 'EB Garamond', serif; 
     color: white;
     font-size: 100px;
+}
+
+.lead {
+    font-size: 28px;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    border: none;
+    border-radius: 30px;
+    
+}
+
+.ideation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+}
+
+.pbutton {
+    margin: 30px;
+    
+}
+
+.btn {
+    background-color: #007556;
+    font-family: 'Montserrat' sans-serif;
+    border: none;
+}
+
+.ml-3 {
+    margin: 40px;
 }
