@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'EB Garamond', serif; 
+    color: white
+}
+
+.test {
+    background-color: aqua
+    
+}
+
+.jumbotron {
+    background-color: #007556
+    
+}
+
+.headingText {
+    color: white;
+    
+    
+}
+
+.media {
+    padding: 30px;
+
+    
+}
+
+.nav-link {
+    color: #007556;
+    font-family: 'Montserrat'
+    
+}
+
+p {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    
+}
+
+h2 {
+    font-family: 'EB Garamond', serif; 
+    color: white;
+    font-size: 100px;
+}
